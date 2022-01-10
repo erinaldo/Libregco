@@ -1,0 +1,2500 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+libregco
+</name>
+</assembly>
+<members>
+<member name="T:Libregco.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._1000">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._2000">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources._500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Account_Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Account_White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Accounts_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Addx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.addx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Adjusts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.AdobeReader_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Afternoonx512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Agendax64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Agendax72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Archivox32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.AttachOrDetach_7014_32x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Backx128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.banco_popular">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Bancosx256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Bancosx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Bank_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Beep_Signal_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.BillToPay_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Billx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Billx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.BlackFriday">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.blockx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Bold_11689">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.boucherblack_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.boucherwhite_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Bugx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.BusquedaMenuWhitex48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.BusquedaMenux48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CajaChicaX2096">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CajaChicaX20961">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CajaChicax48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cake32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cake32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.calculatorx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Calculatorx72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Calendar32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Calendar32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Calendarx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Carnetx256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.cellx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Centered_11691">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.chartblack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.chartwhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Chat_Notification">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.chat32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.chat32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Check_Gif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Checkedx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Christmasx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Clean_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Clean_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Clean_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ClockBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.clockblack_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ClockWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.clockwhite_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.close_black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.close_gray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Closed_GIF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cloud_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cloud_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cloudx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cobros_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Code128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.columnsx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.columnx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ComprasWhite_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CompressBackx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CompressWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Computer_Desktop_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Contabilidadx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Contact32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Contact32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.creditcard_flatx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.creditcard_flatx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CreditCardGif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.creditcardx256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.creditcardx90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.creditcardx90gray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CuentasporPagarx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.CuentasporPagarx512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Customer_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cutx256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Cutx90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Database_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Delete_x16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Delete_x24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Delete_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Delete_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Delete_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.detachprocess_6535">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Disc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Dislike_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Documentx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx0_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx0_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx0_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dolarx5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dollar_iconx90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.dollar_iconx90gray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Dollarx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.doolarx50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Down_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Download_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Download_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Duplicatex24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Duplicatex32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Duplicatex48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Editor_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.excelblackx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.excelx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ExclamationGif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ExpandArrowBlackx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ExpandArrowWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ExtrasLibregco">
+<summary>
+  Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f38\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0502040204020203}Segoe UI;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Eye_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Eyeno_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Facturacion_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Facturacion_x90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Facturacion_x90gray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Facturacionx256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Facturacionx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.FemaleUserx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.fil2x64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filmx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filter_Edit_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filterx16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filterx161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filterx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Filterx321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.FingerprintGif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.flag_dr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.flag_eu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.flag_usa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Font_6007">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.FontColor_11146">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.FontSize_5701">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.FormatoFactura">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Google_Mapsx22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.HalfPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.HappyBirthdayGIF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Helpx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Helpx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Historyx72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Home_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Home_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Home_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.HumanResources_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.icons8_cancel_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.icons8_cancel_24__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Imac_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Image_Capture_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Image_Capture_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Image_Capturex24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Imagen_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ImageOferta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ImageUploadedx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.imageviewgray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.imagevieworange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.IMG_0327">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.InboxGif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.InfoBlackx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.InfoWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Internet_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Inventario_x2097">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Inventariox48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Inventory_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Italic_11693">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Iterm_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.iWorks_Keynotes_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.iWorks_Keynotes_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Justify_11694">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LeftArrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LeftJustify_11695">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Letter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Libregco_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Libregco_v">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoCircle_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoCircle_x256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoCircle_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoCircleUpdatex256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoCirclex48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoUpdatex48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.LibregcoxMini">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Like_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Like_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.listviewgray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.listvieworange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Loading_GiffLoad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.local_connection_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Lock_Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Lock_White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Lock_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Mailx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ManUserx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Measure_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Men_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.MenuBlackx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.MenUserx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.MenuWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Message_Edit_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Messenger_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.MinisterioTrabajo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Minusx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Mission_Control_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Mission_Control_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Moneyx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Moneyx64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Monitorx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Morningx512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Ms_Excel_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.MultiColorLoading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Network_Earth_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Network_Home_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Network_x20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Networkx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Networkx26Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.New_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.New_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.New_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Nextx128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Nightx512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.No_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.no_photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Nominax32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Nominax48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Nominax512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Notes32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.notes32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.NotesBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.NotesWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Notify">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.NotSubtotalx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Notx16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ofertaimagen2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Outputx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.pdfblackx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Pdfx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.PendingTaskGif">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.People_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.People_User_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.percentagex24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Picture_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.PittyBill_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Plusx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Plux16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Prefacturax32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Prefacturax48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Preview_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Preview_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Preview_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Pricex24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Printer_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Printer_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Printer_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Printerx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.printx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Procesox32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Products_x24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Products_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Products_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Profilex16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Profilex20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Profilex512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Questionx128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Redo_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Refresh_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Refresh_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Relationx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.reminder32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.reminder32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Remindersx1024">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Reportesx72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Reportex32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Reportx16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.reportx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.RightJustify_11699">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.rotate90x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.rowx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.SalePoint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.SalesWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_6530">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_and_Clean_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_and_Clean_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_Option_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_Option_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_Option_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Save_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Scanner_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ScanningDoc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ScheduleBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.ScheduleWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Search_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Search_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Search_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.server">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Settings_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Settings_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Settings_x90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.SettingsBlack26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.SettingsWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Shopx375">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Shutdownx128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Shutdownx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Social1Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Social1White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Socialmedia_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.solicitudes32Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.solicitudes32White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Square_Loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Stadistic_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Stadistics_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Stadistics1x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Stocks_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Subtotalx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Supervisionx2140">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Supervisionx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Supervisor_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.System_Preferences_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.System_Settingsx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.tablex64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Tag_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Tag_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Tagx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Terminalx128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TextEdit_x24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TextEdit_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TextEdit_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Things">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Things_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Tools_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TriangleLoading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Tssas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Turn_Off_x90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TurnOff_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TurnOff_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.TurnOff_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.uncheckedx32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Underline_11700">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Undo_16x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.UpBlackx26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Uploadx24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.UpWhitex26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.User_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.User_x72">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.User_x90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Utilidadesx48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Utilities_x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.WareHouse_x48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Warehousex24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.WarningBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.WarningWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Wholesalex32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Wholesalex48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Libregco.My.Resources.Resources.Women_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Libregco.CustomAppointmentForm.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+</member>
+<member name="M:Libregco.CustomAppointmentForm.InitializeComponent">
+ <summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member>
+<member name="T:Libregco.PagaresDs">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.FacturasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.PagaresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.FacturasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.PagaresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.FacturasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.PagaresDs.PagaresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.PagaresDsTableAdapters.FacturasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDsTableAdapters.PagaresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Libregco.PagaresDsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Libregco.PagaresDs,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Libregco.PagaresDsTableAdapters.TableAdapterManager.UpdateInsertedRows(Libregco.PagaresDs,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Libregco.PagaresDsTableAdapters.TableAdapterManager.UpdateDeletedRows(Libregco.PagaresDs,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Libregco.PagaresDsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Libregco.PagaresDsTableAdapters.TableAdapterManager.UpdateAll(Libregco.PagaresDs)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Libregco.PagaresDsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Libregco.PagaresDsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaDatos_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Empresaview_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoPagares_Subreport_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Balances_Clientes_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cotizacion_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.GarantiaArticulos_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Pagares_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Contratos_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoClientes_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoReferencias_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cuadres_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Compras_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ConducesFactura_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionVenta_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.RecibosIngresos_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.PagoCompras_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionCompra_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.OrdenCompra_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListasArticulos_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Etiquetas_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Ficha_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Prefactura_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaPreguntas_DATADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaDatos_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Empresaview_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoPagares_Subreport_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Balances_Clientes_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cotizacion_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.GarantiaArticulos_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Pagares_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Contratos_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoClientes_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoReferencias_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cuadres_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Compras_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ConducesFactura_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionVenta_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.RecibosIngresos_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.PagoCompras_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionCompra_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.OrdenCompra_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListasArticulos_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Etiquetas_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Ficha_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Prefactura_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaPreguntas_DATARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaDatos_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Empresaview_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoPagares_Subreport_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Balances_Clientes_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cotizacion_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.GarantiaArticulos_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Pagares_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Contratos_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoClientes_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListadoReferencias_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Cuadres_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Compras_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ConducesFactura_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionVenta_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.RecibosIngresos_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.PagoCompras_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.DevolucionCompra_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.OrdenCompra_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.ListasArticulos_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Etiquetas_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Ficha_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.Prefactura_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DS.FacturaPreguntas_DATARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.FacturaDatos_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Empresaview_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.ListadoPagares_Subreport_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Balances_Clientes_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Cotizacion_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.GarantiaArticulos_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Pagares_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Contratos_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.ListadoClientes_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.ListadoReferencias_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Cuadres_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Compras_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.ConducesFactura_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.DevolucionVenta_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.RecibosIngresos_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.PagoCompras_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.DevolucionCompra_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.OrdenCompra_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.ListasArticulos_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Etiquetas_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Ficha_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.Prefactura_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.FacturaPreguntas_DATATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Libregco.Reportes_DSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Libregco.Reportes_DS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Libregco.Reportes_DSTableAdapters.TableAdapterManager.UpdateInsertedRows(Libregco.Reportes_DS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Libregco.Reportes_DSTableAdapters.TableAdapterManager.UpdateDeletedRows(Libregco.Reportes_DS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Libregco.Reportes_DSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Libregco.Reportes_DSTableAdapters.TableAdapterManager.UpdateAll(Libregco.Reportes_DS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Libregco.Reportes_DSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Libregco.WebBrowserUpdater">
+ <summary>
+ Creates registry entry to allow standard WebBrowser control to operate at maximum compatibility instead of IE7
+ NOTE: the entry is specific to an application so must be done for any program that uses WebBrowser
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

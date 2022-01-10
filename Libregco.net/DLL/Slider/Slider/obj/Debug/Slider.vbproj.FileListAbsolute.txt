@@ -1,0 +1,9 @@
+C:\Users\Elitedrake\Desktop\Slider\Slider\bin\Debug\Slider.dll
+C:\Users\Elitedrake\Desktop\Slider\Slider\bin\Debug\Slider.pdb
+C:\Users\Elitedrake\Desktop\Slider\Slider\bin\Debug\Slider.xml
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.Resources.resources
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.Slider.resources
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.vbproj.GenerateResource.Cache
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.dll
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.xml
+C:\Users\Elitedrake\Desktop\Slider\Slider\obj\Debug\Slider.pdb

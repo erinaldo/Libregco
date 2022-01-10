@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{80F4ED7F-05B7-4BB3-ABE3-FA42DCD05663}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>libregco3.0v.net</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>libregco3.0v.net.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>libregco3.0v.net.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Libregco v3.0.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.Entity, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConNumtoLetras.vb" />
+    <Compile Include="frm_consultas_factura_cliente.Designer.vb">
+      <DependentUpon>frm_consultas_factura_cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_consultas_factura_cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ajustes.Designer.vb">
+      <DependentUpon>frm_ajustes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ajustes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_almacen_mant.Designer.vb">
+      <DependentUpon>frm_buscar_almacen_mant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_almacen_mant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_cliente_factura.Designer.vb">
+      <DependentUpon>frm_buscar_cliente_factura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_cliente_factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_departamentos.Designer.vb">
+      <DependentUpon>frm_buscar_departamentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_departamentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_itbis.Designer.vb">
+      <DependentUpon>frm_buscar_itbis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_itbis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_mant_empleados.Designer.vb">
+      <DependentUpon>frm_buscar_mant_empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_mant_empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_medidas.Designer.vb">
+      <DependentUpon>frm_buscar_medidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_medidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_referencias.Designer.vb">
+      <DependentUpon>frm_buscar_referencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_referencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_suplidor.Designer.vb">
+      <DependentUpon>frm_buscar_suplidor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_suplidor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_vehiculo.Designer.vb">
+      <DependentUpon>frm_buscar_vehiculo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_vehiculo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cambiar_fondoinicio.Designer.vb">
+      <DependentUpon>frm_cambiar_fondoinicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cambiar_fondoinicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_formadepago.Designer.vb">
+      <DependentUpon>frm_formadepago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_formadepago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_historialpagos.Designer.vb">
+      <DependentUpon>frm_historialpagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_historialpagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_inicio.Designer.vb">
+      <DependentUpon>frm_inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_loginSistema.Designer.vb">
+      <DependentUpon>frm_loginSistema.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_loginSistema.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_almacen.Designer.vb">
+      <DependentUpon>frm_mant_almacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_articulos.Designer.vb">
+      <DependentUpon>frm_mant_articulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_mant_articulos.Designer.vb">
+      <DependentUpon>frm_buscar_mant_articulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_mant_articulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_buscar_clientes.Designer.vb">
+      <DependentUpon>frm_buscar_clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_buscar_clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cheques.Designer.vb">
+      <DependentUpon>frm_cheques.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cheques.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_devolucion_fact.Designer.vb">
+      <DependentUpon>frm_devolucion_fact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_devolucion_fact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_entrega_cobro.Designer.vb">
+      <DependentUpon>frm_entrega_cobro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_entrega_cobro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_facturacion.Designer.vb">
+      <DependentUpon>frm_facturacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_facturacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_clientes.Designer.vb">
+      <DependentUpon>frm_mant_clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_departamentos.Designer.vb">
+      <DependentUpon>frm_mant_departamentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_departamentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_empleados.Designer.vb">
+      <DependentUpon>frm_mant_empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_itbis.Designer.vb">
+      <DependentUpon>frm_mant_itbis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_itbis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_medidas.Designer.vb">
+      <DependentUpon>frm_mant_medidas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_medidas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_referencias.Designer.vb">
+      <DependentUpon>frm_mant_referencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_referencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_suplidor.Designer.vb">
+      <DependentUpon>frm_mant_suplidor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_suplidor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mant_vehiculos.Designer.vb">
+      <DependentUpon>frm_mant_vehiculos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mant_vehiculos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_razon_social.Designer.vb">
+      <DependentUpon>frm_razon_social.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_razon_social.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_recibo_pagos.Designer.vb">
+      <DependentUpon>frm_recibo_pagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_recibo_pagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_registro_compras.Designer.vb">
+      <DependentUpon>frm_registro_compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_registro_compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_registro_cuentasbancarias.Designer.vb">
+      <DependentUpon>frm_registro_cuentasbancarias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_registro_cuentasbancarias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_visual_articulos_facturados.Designer.vb">
+      <DependentUpon>frm_visual_articulos_facturados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_visual_articulos_facturados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_visual_condicion_fact.Designer.vb">
+      <DependentUpon>frm_visual_condicion_fact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_visual_condicion_fact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OperacionesGenerales.vb" />
+    <Compile Include="Resources.vb" />
+    <Compile Include="WaterMark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_ajustes.resx">
+      <DependentUpon>frm_ajustes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_almacen_mant.resx">
+      <DependentUpon>frm_buscar_almacen_mant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_cliente_factura.resx">
+      <DependentUpon>frm_buscar_cliente_factura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_departamentos.resx">
+      <DependentUpon>frm_buscar_departamentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_consultas_factura_cliente.resx">
+      <DependentUpon>frm_consultas_factura_cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_itbis.resx">
+      <DependentUpon>frm_buscar_itbis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_mant_empleados.resx">
+      <DependentUpon>frm_buscar_mant_empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_medidas.resx">
+      <DependentUpon>frm_buscar_medidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_referencias.resx">
+      <DependentUpon>frm_buscar_referencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_suplidor.resx">
+      <DependentUpon>frm_buscar_suplidor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_vehiculo.resx">
+      <DependentUpon>frm_buscar_vehiculo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cambiar_fondoinicio.resx">
+      <DependentUpon>frm_cambiar_fondoinicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_formadepago.resx">
+      <DependentUpon>frm_formadepago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_historialpagos.resx">
+      <DependentUpon>frm_historialpagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_inicio.resx">
+      <DependentUpon>frm_inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_loginSistema.resx">
+      <DependentUpon>frm_loginSistema.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_almacen.resx">
+      <DependentUpon>frm_mant_almacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_articulos.resx">
+      <DependentUpon>frm_mant_articulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_mant_articulos.resx">
+      <DependentUpon>frm_buscar_mant_articulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_buscar_clientes.resx">
+      <DependentUpon>frm_buscar_clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cheques.resx">
+      <DependentUpon>frm_cheques.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_devolucion_fact.resx">
+      <DependentUpon>frm_devolucion_fact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_entrega_cobro.resx">
+      <DependentUpon>frm_entrega_cobro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_facturacion.resx">
+      <DependentUpon>frm_facturacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_clientes.resx">
+      <DependentUpon>frm_mant_clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_departamentos.resx">
+      <DependentUpon>frm_mant_departamentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_empleados.resx">
+      <DependentUpon>frm_mant_empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_itbis.resx">
+      <DependentUpon>frm_mant_itbis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_medidas.resx">
+      <DependentUpon>frm_mant_medidas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_referencias.resx">
+      <DependentUpon>frm_mant_referencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_suplidor.resx">
+      <DependentUpon>frm_mant_suplidor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mant_vehiculos.resx">
+      <DependentUpon>frm_mant_vehiculos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_razon_social.resx">
+      <DependentUpon>frm_razon_social.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_recibo_pagos.resx">
+      <DependentUpon>frm_recibo_pagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_registro_compras.resx">
+      <DependentUpon>frm_registro_compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_registro_cuentasbancarias.resx">
+      <DependentUpon>frm_registro_cuentasbancarias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_visual_articulos_facturados.resx">
+      <DependentUpon>frm_visual_articulos_facturados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_visual_condicion_fact.resx">
+      <DependentUpon>frm_visual_condicion_fact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipo Navarrete Comercial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Oficial V2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Libregco v3.0.ico" />
+    <None Include="Resources\Ojo.png" />
+    <None Include="Resources\Recorded TV.png" />
+    <None Include="Resources\SquareGray.jpg" />
+    <None Include="Resources\User Accounts.png" />
+    <None Include="Resources\Services.png" />
+    <None Include="Resources\no_photo.jpg" />
+    <None Include="Resources\Zoom Out.png" />
+    <None Include="Resources\Zoom In.png" />
+    <None Include="Resources\Shortcuts.png" />
+    <None Include="Resources\Pictures.png" />
+    <None Include="Resources\Power - Standby.png" />
+    <None Include="Resources\Contacts Folder.png" />
+    <None Include="Resources\Android Smartphone.png" />
+    <None Include="Resources\Printer.png" />
+    <None Include="Resources\Recycle Bin Full.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Documents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

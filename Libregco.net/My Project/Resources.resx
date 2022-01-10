@@ -1,0 +1,1240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Calendarx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Calendarx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Account_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Account_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_dr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\flag_dr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Supervisionx2140" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Supervisionx2140.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reminder32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\reminder32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Underline_11700" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Underline_11700.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Utilidadesx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Utilidadesx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PittyBill_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\PittyBill x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Undo_16x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Undo_16x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CajaChicaX2096" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\CajaChicaX2096.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Products x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Products x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bold_11689" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Bold_11689.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Men_User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Men User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextEdit_x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\TextEdit x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Picture_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Picture x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Socialmedia_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Socialmedia x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mailx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Mailx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pricex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Pricex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cellx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\cellx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_cancel_24__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\icons8-cancel-24 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotSubtotalx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\NotSubtotalx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rowx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\rowx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clockblack_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\clockblack_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SettingsBlack26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\SettingsBlack26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nextx128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x128\Nextx128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notes32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Notes32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filterx16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Filterx16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FemaleUserx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\FemaleUserx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\2000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CompressWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\CompressWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Redo_16x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Redo_16x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Duplicatex48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Duplicatex48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imagevieworange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\imagevieworange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventory-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Inventory-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_Option_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Save Option x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filterx321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Filterx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Monitorx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Monitorx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stadistics1x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Stadistics1x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Save x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dollarx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Dollarx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageviewgray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\imageviewgray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClockWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\ClockWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\New x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="banco_popular" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Banco Popular Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExpandArrowWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\ExpandArrowWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Networkx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\Networkx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cutx256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\Cutx256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Things" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Things.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClockBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\ClockBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CajaChicax48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\CajaChicax48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clockwhite_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\clockwhite_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Scanner_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Scanner x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Italic_11693" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Italic_11693.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AttachOrDetach_7014_32x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\AttachOrDetach_7014_32x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Libregco_v" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Libregco.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UpBlackx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\UpBlackx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backx128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x128\Backx128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CuentasporPagarx512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\CuentasporPagarx512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tag_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Tag x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\close_gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blockx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\blockx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calculatorx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\calculatorx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FingerprintGif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\FingerprintGif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creditcardx256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\creditcardx256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Like_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Like x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calendar32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Calendar32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Delete x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Morningx512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x512\Morningx512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Profilex16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Profilex16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Disc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Disc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="listvieworange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\listvieworange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dollar_iconx90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\dollar-iconx90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facturacion_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Facturacion x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clean_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Clean x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clean_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Clean x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventario_x2097" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Inventario_x2097.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Afternoonx512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x512\Afternoonx512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="detachprocess_6535" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\detachprocess_6535.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pdfx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Pdfx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurnOff_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\TurnOff x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="excelx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\excelx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Billx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Billx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Questionx128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x128\Questionx128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExpandArrowBlackx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\ExpandArrowBlackx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextEdit_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\TextEdit x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HalfPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\HalfPage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Customer x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Customer x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Products_x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Products x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Justify_11694" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Justify_11694.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Loading_GiffLoad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Loading_GiffLoad.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Duplicatex32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Duplicatex32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoCirclex48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\LibregcoCirclex48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Adjusts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\Adjusts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoCircle_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\LibregcoCircle x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="server" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\server.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ImageOferta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\ImageOferta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Imagen Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uncheckedx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\uncheckedx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Relationx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Relationx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurnOff_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\TurnOff x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reportx16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Reportx16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calendar32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Calendar32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tssas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Tssas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_and_Clean_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Save and Clean x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Refresh_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Refresh x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx0_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx0.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Centered_11691" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Centered_11691.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clean_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Clean x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reminder32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\reminder32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calculatorx72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Calculatorx72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotesWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\NotesWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Preview_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Preview x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nominax512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Nominax512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="User_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\User x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Search x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cake32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Cake32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="columnsx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\columnsx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reportx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\reportx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Profilex512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Profilex512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_eu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\flag_eu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bancosx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Bancosx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoxMini" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\LibregcoxMini.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iWorks_Keynotes_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\iWorks-Keynotes x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chat32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\chat32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cloudx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Cloudx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExtrasLibregco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Documentos\ExtrasLibregco.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Christmasx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Christmasx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Printerx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Printerx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Network-Home-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Network-Home-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Things_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Things x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creditcardx90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\creditcardx90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx0_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx0.01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AdobeReader_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\AdobeReader x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PendingTaskGif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\PendingTaskGif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boucherwhite_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\boucherwhite_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tagx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Tagx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facturacionx256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\Facturacionx256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Check_Gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Check Gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filterx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Filterx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlackFriday" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\BlackFriday.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Audio\Notify.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cutx90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Cutx90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filmx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Filmx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creditcard_flatx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\creditcard-flatx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boucherblack_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\boucherblack_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cobros_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Cobros x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eyeno_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Eyeno_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ScheduleBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\SheduleBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Procesox32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Procesox32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creditcard_flatx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\creditcard-flatx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="creditcardx90gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\creditcardx90gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nominax48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Nominax48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="People_User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\People User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lock_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Lock x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Settings_x90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Settings x90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bank_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Bank x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contabilidadx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Contabilidadx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IMG_0327" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\IMG_0327.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Letter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Letter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Messenger_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Messenger x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bancosx256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\Bancosx256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ImageUploadedx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Checkedx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Message-Edit-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Message-Edit-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Social1White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\Social1White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Printer_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Printer x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Moneyx64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\Moneyx64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Database_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Database x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Prefacturax32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Prefacturax32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Carnetx256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\Carnetx256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minusx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Minusx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Printer_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Printer x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfoBlackx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\InfoBlackx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="listviewgray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\listviewgray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chartblack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\chartblack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tablex64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\tablex64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FontColor_11146" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\FontColor_11146.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Documentx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Documentx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plusx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Plusx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WarningWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\WarningWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mission_Control_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Mission-Control x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pdfblackx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\pdfblackx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoCircleUpdatex256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\LibregcoCircleUpdatex256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filter-Edit-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Filter-Edit-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Terminalx128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x128\Terminalx128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ScanningDoc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\ScanningDoc.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Delete x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Remindersx1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Remindersx1024.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Network_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Network x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dollar_iconx90gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\dollar-iconx90gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eye_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Eye_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="columnx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\columnx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Products x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Products x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FontSize_5701" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\FontSize_5701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cloud_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Cloud x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TriangleLoading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\TriangleLoading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Delete x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Closed_GIF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Closed GIF.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Social1Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\Social1Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Profilex20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Profilex20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UpWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\UpWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MenuBlackx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\MenuBlackx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BusquedaMenux48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\BusquedaMenux48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Internet_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Internet x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Uploadx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Uploadx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tag_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Tag x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Supervisionx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Supervisionx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no_photo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\no_photo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_and_Clean_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Save and Clean x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facturacion_x90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Facturacion x90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="notes32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\notes32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tools_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Tools x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MenuWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\MenuWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Download x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Preview_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Preview x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iWorks_Keynotes_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\iWorks-Keynotes x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shutdownx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Shutdownx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Subtotalx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Subtotalx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExclamationGif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\ExclamationGif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Search x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_6530" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Save_6530.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="System_Settingsx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\system-settings-icon x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nominax32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Nominax32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Down_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Down x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flag_usa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\flag_usa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dislike_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Dislike x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Filterx161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Filterx16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Square_Loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Square Loading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MenUserx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\MenUserx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beep-Signal-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Beep-Signal-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ManUserx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\ManUserx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wholesalex32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Wholesalex32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Delete x16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\close_black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Home x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Computer-Desktop-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Computer-Desktop-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cake32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Cake32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ScheduleWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\ScheduleWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notx16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Notx16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Addx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Addx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CuentasporPagarx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\CuentasporPagarx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Helpx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Helpx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HumanResources_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\HumanResources x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HappyBirthdayGIF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\HappyBirthdayGIF.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx100.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Outputx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Outputx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fil2x64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\fil2x64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chartwhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\chartwhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\500.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TurnOff_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\TurnOff x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="User_x90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\User x90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Supervisor_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Supervisor x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Editor-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Editor-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RightJustify_11699" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\RightJustify_11699.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="doolarx50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\doolarx50.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\1000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ofertaimagen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\ofertaimagen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Google_Mapsx22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Google-Maps-icon x22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image-Capturex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Image-Capturex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chat_Notification" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Chat_Notification.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Accounts_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Accounts x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoCircle_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\LibregcoCircle x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Settings_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Settings x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Libregco_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Libregco.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="printx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\printx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stocks_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Stocks x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NotesBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\NotesBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotate90x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\rotate90x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\New x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Historyx72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Historyx72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfoWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\InfoWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftJustify_11695" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\LeftJustify_11695.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Moneyx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Moneyx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nightx512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x512\Nightx512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Network-Earth-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Network-Earth-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FormatoFactura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\FormatoFactura.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BillToPay_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\BillToPay x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contact32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Contact32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Delete x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="solicitudes32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\solicitudes32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reportex32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Reportex32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shopx375" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\Shopx375.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_Option_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Save Option x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="User_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\User x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Networkx26Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\Networkx26Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SalePoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\SalePoint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoUpdatex48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\LibregcoUpdatex48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Font_6007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RichTextIcons\Font_6007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Agendax64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\Agendax64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Save x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Prefacturax48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Prefacturax48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Account_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Account_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CajaChicaX20961" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x1000\CajaChicaX2096.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="No_Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\No_Image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="solicitudes32White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\solicitudes32White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="local_connection_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\local_connection_x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bugx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Bugx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Settings_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Settings x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Warehousex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Warehousex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wholesalex48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Wholesalex48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Code128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\Code128.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="System_Preferences_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\System-Preferences x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Turn_Off_x90" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Turn Off x90.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women_User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Women User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="addx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\addx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plux16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x16\Plux16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chat32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\chat32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shutdownx128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x128\Shutdownx128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_Option_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Save Option x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ComprasWhite-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\ComprasWhite-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_Capture_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Image-Capture x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Home x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\Loading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lock_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Lock_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SalesWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\SalesWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InboxGif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\InboxGif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Home x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_Capture_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Image-Capture x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolarx0_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\dolarx0.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facturacion_x90gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x90\Facturacion x90gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Refresh_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Refresh x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CompressBackx26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\CompressBackx26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Agendax72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Agendax72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lock_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Lock_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Billx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Billx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Duplicatex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\Duplicatex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SettingsWhitex26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x26\SettingsWhitex26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iterm_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Iterm x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftArrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\LeftArrow.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WareHouse_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\WareHouse x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Preview_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Preview x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="percentagex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\percentagex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Facturacionx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Facturacionx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Printer_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Printer x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Measure_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Measure x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BusquedaMenuWhitex48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\BusquedaMenuWhitex48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LibregcoCircle_x256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x256\LibregcoCircle x256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\New x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Checkedx32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Checkedx32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Download x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_cancel_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\icons8-cancel-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imac_x20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x20\Imac x20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="excelblackx24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x24\excelblackx24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reportesx72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Reportesx72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mission_Control_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Mission-Control x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextEdit_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\TextEdit x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contact32Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Contact32Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MultiColorLoading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\MultiColorLoading.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cloud_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Cloud x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WarningBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x64\WarningBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MinisterioTrabajo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Elementos\MinisterioTrabajo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stadistic_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Stadistic x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Archivox32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Archivox32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\Search x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CreditCardGif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gifs\CreditCardGif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ms_Excel_x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Ms-Excel x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="People_User_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\People User x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Utilities_x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x32\StartBar\Utilities x32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventariox48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Inventariox48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Like_x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Like x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Helpx48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x48\Helpx48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stadistics x72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IcoFlat\x72\Stadistics x72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,66 @@
+Cambiar la ubicación de una base de datos de MySQL Server
+En alguna ocasión podemos desear cambiar la ubicación de una base de datos de MySQL bien sea porqué la unidad de disco donde se encuentra se ha quedado pequeña, sin espacio, etc.
+
+Esta tarea puede parecer muy complicada, pero la verdad es que es relativamente fácil de realizar. Solo tenemos que seguir uno de estos 2 métodos:
+
+Método 1 (Rápido):
+
+Ir al menú Inicio > Panel de control > Herramientas administrativas > Servicios o bien Inicio > Ejecutar ( Services.msc ) en los 2 casos nos aparecerá la utilidad SERVICIOS de Microsoft ( Imagen 1 ):
+
+
+En esta ventana buscaremos el servicio de MySQL y lo detendremos haciendo un clic con el botón derecho encima de él y seleccionando la opción DETENER.
+
+Una vez realizado esto haremos lo siguiente:
+
+Localizar la carpeta DATA del programa MySQL, normalmente ubicada en:
+
+C:\Archivos de programa\mysql\mysql Server 5.0\
+
+Una vez encontrada esta carpeta la cortaremos y la pegaremos en la nueva ubicación deseada. Mientras se copia la carpeta (Tardará mas o menos en función del tamaño de las BBDD que tengamos en ella ) editaremos el fichero my.ini ubicado en C:\Archivos de programa\mysql\mysql Server 5.0\ y buscaremos las líneas siguientes:
+
+#Path to the database root
+Datadir=C:/Archivos de programa/MySQL/MySQL Server 5.0/data
+
+Ahora solo tendremos que indicarle en DATADIR la nueva ubicación de la carpeta DATA ( Inidicar la ruta con la barra / si lo hacemos con la barra \ nos dará problemas ) y salir guardando los cambios.
+
+Ejemplo: #Path to the database root
+Datadir=F:/data
+
+Si la copia de la carpeta DATA a finalizado solo quedará iniciar de nuevo el servicio de MySQL, haciendo un clic con el botón derecho encima de él y seleccionando la opción INICIAR.
+
+Si hemos seguido los pasos al pie de la letra MySQL Server se iniciará sin ningún problema.
+
+
+Método 2 (Más laborioso y con los mismos resultados) Para aquellos que os guste complicaros la vida y aprender cosa nuevas.
+
+1.- Iniciar una sesión de cosnola de DOS y ubicarnos en la raíz del disco duro: C:\
+2.- Una vez ubicados en C:\ teclearemos la instrucción siguiente:
+
+mysqladmin -uroot –ppass shutdown
+
+Con esto detendremos el servicio MySQL SERVER (Con lo que momentáneamente la 
+BBDD estará inaccesible). ( Substituir la palabra pass de la instrucción por
+la contaseña de vuestro usuario root )
+
+NOTA:
+Si no tenemos el PATH del MySQL Server en las variables de Windows, este comando no funciona a no ser que primero nos situemos en la carpeta de trabajo BIN situada en C:\Archivos de programa\mysql\mysql Server 5.0\bin\
+
+Una vez realizado este paso, tendremos que Localizar la carpeta DATA del programa MySQL, normalmente ubicada en:
+
+C:\Archivos de programa\mysql\mysql Server 5.0\
+
+Una vez encontrada esta carpeta la cortaremos y la pegaremos en la nueva ubicación deseada. Mientras se copia la carpeta ( Tardará mas o menos, en función del tamaño de las BBDD que tengamos en ella ) editaremos el fichero my.ini ubicado en C:\Archivos de programa\mysql\mysql Server 5.0\ y buscaremos las líneas siguientes:
+
+#Path to the database root
+datadir=C:/Archivos de programa/MySQL/MySQL Server 5.0/data
+
+Ahora solo tendremos que indicarle en DATADIR la nueva ubicación de la carpeta DATA ( Inidicar la ruta con la barra / si lo hacemos con la barra \ nos dará problemas ) y salir guardando los cambios.
+
+Ejemplo: #Path to the database root
+Datadir=F:/data
+
+Solo nos queda esperar a que la copia finalice para teclear esta instrucción des de la consola DOS que teníamos abierta.
+
+Net start MySQL
+
+Este comando iniciara otra vez el servicio MySQL y si hemos seguido correctamente todos los pasos el servidor MySQL tendrá que iniciarse sin ningún problema.
